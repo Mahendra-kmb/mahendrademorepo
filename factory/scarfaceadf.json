@@ -1,0 +1,9 @@
+{
+	"name": "scarfaceadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93ad0dae-9fc6-4e13-91d1-bcf03bba302e",
+		"tenantId": "e26018c0-90ec-4fbb-b1c6-a2d0a5cdb553"
+	}
+}
