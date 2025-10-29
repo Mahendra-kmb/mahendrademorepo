@@ -1,0 +1,16 @@
+{
+	"name": "dataset_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_b_blob",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation"
+			}
+		}
+	}
+}
