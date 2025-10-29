@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "scarfaceadf"
+		},
+		"ls_b_adlsgen2_accountKey": {
+			"value": ""
+		},
+		"ls_b_blob_connectionString": {
+			"value": ""
+		},
+		"ls_b_adlsgen2_properties_typeProperties_url": {
+			"value": "https://scarfaceadlsgen2.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
